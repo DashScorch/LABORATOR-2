@@ -10,6 +10,8 @@ int function(int x){
 int main(){
 	int a=30, i=0;
 	
+	int doru = 100;
+
 	while (a>0){
 		a=function(a);
 		i++;
